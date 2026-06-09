@@ -1,2 +1,2 @@
 # dragon-city
-wellcome to dc 
+welcome to dc 
